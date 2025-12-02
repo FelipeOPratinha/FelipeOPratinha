@@ -39,8 +39,11 @@
 
 <h3 align="center">📊 GitHub Status 📊</h3>
 <p align="center">
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=felipeopratinha&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  </p>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeopratinha&layout=compact"/> -->
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=felipeopratinha&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=0774BB&title_color=0774BB&icon_color=0774BB&text_color=0774BB&bg_color=212830"/> 
+  <!-- <img width="70%" src="https://github-readme-stats.vercel.app/api?username=felipeopratinha&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=0774BB&title_color=0774BB&icon_color=0774BB&text_color=0774BB&bg_color=212830"/>  -->
 </p>
 
 ##
