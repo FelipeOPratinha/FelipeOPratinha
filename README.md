@@ -14,25 +14,34 @@
 
 <p align="center">
   <!-- Badges Tecnologias -->
-  <img height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" />
   &nbsp;
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript "/>
   &nbsp;
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" />
   &nbsp;
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" />
   &nbsp;
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" />
   &nbsp;
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" />
   &nbsp;
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" />
   &nbsp;
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <!-- <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
+  &nbsp; -->
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=react&theme=dark" title="React" />
   &nbsp;
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" />
   &nbsp;
-  <img height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" title="Photoshop" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" />
+  &nbsp;
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" />
+  &nbsp;
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=ps&theme=dark" title="Photoshop" />
+  &nbsp;
+  <!-- <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
+  &nbsp; -->
 </p>
 
 ##
