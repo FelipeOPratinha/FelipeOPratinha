@@ -50,11 +50,11 @@
 
 <p align="center">
   <p align="center">
-    <img width="44%" src="https://github-readme-stats-six-ashen-30.vercel.app/api?username=felipeopratinha&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=0774BB&title_color=0774BB&icon_color=0774BB&text_color=0774BB&bg_color=212830"/>
-    <img width="36%" src="https://github-readme-stats-six-ashen-30.vercel.app/api/top-langs/?username=felipeopratinha&langs_count=4&hide_title=true&layout=compact&border_color=0774BB&title_color=0774BB&icon_color=0774BB&text_color=0774BB&bg_color=212830"/>
+    <img width="50%" src="https://github-readme-stats-six-ashen-30.vercel.app/api?username=felipeopratinha&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=0774BB&title_color=0774BB&icon_color=0774BB&text_color=0774BB&bg_color=212830"/>
+    <img width="41%" src="https://github-readme-stats-six-ashen-30.vercel.app/api/top-langs/?username=felipeopratinha&langs_count=4&hide_title=true&layout=compact&border_color=0774BB&title_color=0774BB&icon_color=0774BB&text_color=0774BB&bg_color=212830"/>
   </p>
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=felipeopratinha&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+    <img width="40%" src="https://streak-stats.demolab.com?user=felipeopratinha&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D" />
     &nbsp;
   </p>
 </p>
