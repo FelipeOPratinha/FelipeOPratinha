@@ -10,39 +10,59 @@
 
 ##
 
-<h3 align="center">💻 Technologies 💻</h3>
+<h3 align="center">💻 Technologies & Skills 💻</h3>
 
-<p align="center">
-  <!-- Badges Tecnologias -->
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" />
-  &nbsp;
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript "/>
-  &nbsp;
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" />
-  &nbsp;
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" />
-  &nbsp;
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" />
-  &nbsp;
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" />
-  &nbsp;
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" />
-  &nbsp;
-  <!-- <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
-  &nbsp; -->
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=react&theme=dark" title="React" />
-  &nbsp;
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" />
-  &nbsp;
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" />
-  &nbsp;
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" />
-  &nbsp;
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=ps&theme=dark" title="Photoshop" />
-  &nbsp;
-  <!-- <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
-  &nbsp; -->
-</p>
+<table align="center">
+  <tr>
+    <th>🧠 Languages</th>
+    <th>📦 Frameworks</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" />
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" />
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" />
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" />
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" />
+    </td>
+    <td>
+      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React Native" />
+      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" />
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind" />
+      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+    </td>
+  </tr>
+
+  <tr>
+    <th>🗃️ Databases</th>
+    <th>🛠️ Tools & Utilities</th>
+  </tr>
+  <tr>
+    <td>
+      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+      <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" />
+      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+    </td>
+    <td>
+      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" title="Github" />
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" />
+      <img src="https://skillicons.dev/icons?i=ps&theme=dark" title="Photoshop" />
+      <img src="https://skillicons.dev/icons?i=ai&theme=dark" title="Illustrator" />
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" />
+      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+    </td>
+  </tr>
+</table>
 
 ##
 
