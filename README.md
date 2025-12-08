@@ -17,7 +17,7 @@
     <th>🧠 Languages</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" height="85">
       <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" />
       <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" />
       <img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" />
@@ -33,7 +33,7 @@
   </tr>
 
   <tr>
-    <td align="center">
+    <td align="center" height="85">
       <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React Native" />
       <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind" />
       <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" />
@@ -44,7 +44,7 @@
     <th>🗃️ Databases</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" height="85">
       <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" />
       <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" />
       <img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" />
@@ -56,7 +56,7 @@
   </tr>
 
   <tr>
-    <td align="center">
+    <td align="center" height="85">
       <img src="https://skillicons.dev/icons?i=github&theme=dark" title="Github" />
       <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" />
       <img src="https://skillicons.dev/icons?i=ps&theme=dark" title="Photoshop" />
