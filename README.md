@@ -17,9 +17,7 @@
     <th>🧠 Languages</th>
   </tr>
   <tr>
-    <td>
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" />
       <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" />
       <img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" />
@@ -27,8 +25,6 @@
       <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" />
       <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" />
       <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
     </td>
   </tr>
 
@@ -37,16 +33,10 @@
   </tr>
 
   <tr>
-    <td>
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React Native" />
       <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind" />
       <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
     </td>
   </tr>
 
@@ -54,16 +44,10 @@
     <th>🗃️ Databases</th>
   </tr>
   <tr>
-    <td>
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" />
       <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" />
       <img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
     </td>
   </tr>
 
@@ -72,17 +56,12 @@
   </tr>
 
   <tr>
-    <td>
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=github&theme=dark" title="Github" />
       <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" />
       <img src="https://skillicons.dev/icons?i=ps&theme=dark" title="Photoshop" />
       <img src="https://skillicons.dev/icons?i=ai&theme=dark" title="Illustrator" />
       <img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
-      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
     </td>
   </tr>
 </table>
