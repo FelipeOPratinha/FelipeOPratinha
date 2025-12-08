@@ -31,8 +31,8 @@
       <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
       <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
       <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React Native" />
-      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" />
       <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind" />
+      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" />
       <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
       <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
     </td>
@@ -48,7 +48,7 @@
       <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
       <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" />
       <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" />
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" />
       <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
       <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
     </td>
