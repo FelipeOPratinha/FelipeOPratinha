@@ -28,13 +28,13 @@
       <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" />
     </td>
     <td>
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
+      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
       <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React Native" />
       <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind" />
       <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" />
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
+      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
     </td>
   </tr>
 
@@ -44,22 +44,22 @@
   </tr>
   <tr>
     <td>
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
+      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
       <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" />
       <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" />
       <img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" />
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
+      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
     </td>
     <td>
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
       <img src="https://skillicons.dev/icons?i=github&theme=dark" title="Github" />
       <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" />
       <img src="https://skillicons.dev/icons?i=ps&theme=dark" title="Photoshop" />
       <img src="https://skillicons.dev/icons?i=ai&theme=dark" title="Illustrator" />
       <img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" />
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+      <img width="48" height="48" src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-utils/transparent-icon.png" />
     </td>
   </tr>
 </table>
