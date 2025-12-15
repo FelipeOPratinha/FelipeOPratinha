@@ -61,6 +61,7 @@
       <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" />
       <img src="https://skillicons.dev/icons?i=ps&theme=dark" title="Photoshop" />
       <img src="https://skillicons.dev/icons?i=ai&theme=dark" title="Illustrator" />
+      <img src="https://raw.githubusercontent.com/felipeopratinha/FelipeOPratinha/main/assets/custom-icons-rounded/Axios-Dark.svg" width="48" height="48" title="Axios" />
       <img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" />
     </td>
   </tr>
