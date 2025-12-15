@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&center=true&vCenter=true&duration=3000&pause=1000&color=0774BB&width=1000&lines=Hello%2C+I'm+Felipe+Aires+%F0%9F%91%8B%F0%9F%8F%BB;A+fullstack+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <p align="center">
-  Fullstack developer in progress | Passionate about building practical systems to optimize workflows and data access.</br>
-  Currently working with PHP, JavaScript, HTML5, CSS3, Bootstrap, PostgreSQL.</br>
-  Also experienced in Java, C++, Photoshop, and video editing with Sony Vegas and Movavi.
+  Fullstack developer in progress | Focused on building efficient and modern solutions with JavaScript, TypeScript, React Native, Tailwind, and PostgreSQL.</br></br>
+  Currently working with JavaScript, TypeScript, HTML5, CSS3, React Native with Tailwind, and PostgreSQL. Also experienced with PHP and Bootstrap for web systems.</br></br>
+  Previously worked with Java, C++, and tools like Photoshop, Illustrator, Figma, and Sony Vegas. I also enjoy organizing tasks using GitHub Projects with Kanban boards.
 </p>
 
 ##
@@ -15,10 +15,9 @@
 <table align="center">
   <tr>
     <th>🧠 Languages</th>
-    <th>📦 Frameworks</th>
   </tr>
   <tr>
-    <td>
+    <td align="center" height="85">
       <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" />
       <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" />
       <img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" />
@@ -27,39 +26,42 @@
       <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" />
       <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" />
     </td>
-    <td>
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+  </tr>
+
+  <tr>
+    <th>📦 Frameworks</th>
+  </tr>
+
+  <tr>
+    <td align="center" height="85">
       <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React Native" />
       <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind" />
       <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" />
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
     </td>
   </tr>
 
   <tr>
     <th>🗃️ Databases</th>
-    <th>🛠️ Tools & Utilities</th>
   </tr>
   <tr>
-    <td>
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+    <td align="center" height="85">
       <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" />
       <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" />
       <img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" />
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
     </td>
-    <td>
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
+  </tr>
+
+  <tr>
+    <th>🛠️ Tools & Utilities</th>
+  </tr>
+
+  <tr>
+    <td align="center" height="85">
       <img src="https://skillicons.dev/icons?i=github&theme=dark" title="Github" />
       <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" />
       <img src="https://skillicons.dev/icons?i=ps&theme=dark" title="Photoshop" />
       <img src="https://skillicons.dev/icons?i=ai&theme=dark" title="Illustrator" />
       <img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" />
-      <img width="48" height="48" src="https://dummyimage.com/48x48/151b23/151b23&text=+" />
     </td>
   </tr>
 </table>
