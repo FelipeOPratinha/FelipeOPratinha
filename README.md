@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&center=true&vCenter=true&duration=3000&pause=1000&color=0774BB&width=1000&lines=Hello%2C+I'm+Felipe+Aires+%F0%9F%91%8B%F0%9F%8F%BB;A+fullstack+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<p align="center">
+<div align="justify">
   Fullstack developer in progress | Focused on building efficient and modern solutions with JavaScript, TypeScript, React Native, Tailwind, and PostgreSQL.</br></br>
   Currently working with JavaScript, TypeScript, HTML5, CSS3, React Native with Tailwind, and PostgreSQL. Also experienced with PHP and Bootstrap for web systems.</br></br>
   Previously worked with Java, C++, and tools like Photoshop, Illustrator, Figma, and Sony Vegas. I also enjoy organizing tasks using GitHub Projects with Kanban boards.
-</p>
+</div>
 
 ##
 
